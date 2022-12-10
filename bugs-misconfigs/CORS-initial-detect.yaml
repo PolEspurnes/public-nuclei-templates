@@ -4,7 +4,7 @@ info:
         name: Detect CORS
         author: jtcsec
         severity: info
-        tag: cors
+        tags: cors
 
 requests:
         - method: GET
